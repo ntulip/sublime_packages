@@ -1,0 +1,8 @@
+{
+    "previously_shown_tweets": [], 
+    "twitter_access_token_key": "185236988-Rb4LJuX9qOwsXfj3ZEa9CM149N8ENDpGWNaiMY7x", 
+    "twitter_access_token_secret": "WQGMouSdvNh7QOhMfMTlso5vDHFVTZu2iIV3zCk9qo", 
+    "twitter_have_token": true, 
+    "twitter_proxy_config": null, 
+    "use_proxy": false
+}

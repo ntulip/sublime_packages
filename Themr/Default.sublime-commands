@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "Themr: List schemes",
+        "command": "themr_list_themes"
+    },
+    {
+        "caption": "Themr: Next scheme",
+        "command": "themr_next_theme"
+    },
+    {
+        "caption": "Themr: Previous scheme",
+        "command": "themr_prev_theme"
+    }
+]
